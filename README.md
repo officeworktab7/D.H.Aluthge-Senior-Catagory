@@ -1,7 +1,10 @@
-name-D.H.Aluthge
+Project name-Space info website
+Description- web site designed under the theme Space and Planets
+Name-D.H.Aluthge
 School-Devi Balika Vidyalaya
 Grade-10
 Catagory-senior
+Contact no-0714880084
 email-achinithilakeratne@gmail.com
 
-Still haven't received the ID and not comfortable of sharing a image og Birth certificate
+
